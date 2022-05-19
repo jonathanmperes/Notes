@@ -2764,10 +2764,10 @@ id line1
 id line3
 id linear
 id listMode
-id listView
 id list_item
 id lista_notas_fundo_gradiente_inferior
 id lista_notas_insere_nota
+id lista_notas_recyclerview
 id masked
 id match_constraint
 id match_parent

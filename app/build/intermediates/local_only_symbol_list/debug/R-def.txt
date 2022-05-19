@@ -13,9 +13,9 @@ drawable ic_launcher_foreground
 id cardView
 id item_nota_descricao
 id item_nota_titulo
-id listView
 id lista_notas_fundo_gradiente_inferior
 id lista_notas_insere_nota
+id lista_notas_recyclerview
 layout activity_lista_notas
 layout item_nota
 mipmap ic_launcher
