@@ -4,12 +4,12 @@
         "source": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\layout\\activity_lista_notas.xml"
     },
     {
-        "merged": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
-    },
-    {
         "merged": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_action_salva_nota.png.flat",
+        "source": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_salva_nota.png"
     },
     {
         "merged": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
@@ -24,10 +24,6 @@
         "source": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
-    },
-    {
         "merged": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
         "source": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
@@ -36,20 +32,20 @@
         "source": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable_fundo_gradiente_insere_nota.xml.flat",
-        "source": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable\\fundo_gradiente_insere_nota.xml"
-    },
-    {
         "merged": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_formulario_nota.xml.flat",
+        "source": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\layout\\activity_formulario_nota.xml"
     },
     {
-        "merged": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_action_salva_nota.png.flat",
+        "source": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-mdpi\\ic_action_salva_nota.png"
+    },
+    {
+        "merged": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
         "merged": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\layout_item_nota.xml.flat",
@@ -60,11 +56,43 @@
         "source": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_action_salva_nota.png.flat",
+        "source": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\ic_action_salva_nota.png"
     },
     {
         "merged": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_action_salva_nota.xml.flat",
+        "source": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-anydpi\\ic_action_salva_nota.xml"
+    },
+    {
+        "merged": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable_fundo_gradiente_insere_nota.xml.flat",
+        "source": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable\\fundo_gradiente_insere_nota.xml"
+    },
+    {
+        "merged": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_action_salva_nota.png.flat",
+        "source": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_salva_nota.png"
+    },
+    {
+        "merged": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_formulario_nota_salva.xml.flat",
+        "source": "C:\\Users\\email\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\menu\\menu_formulario_nota_salva.xml"
     }
 ]

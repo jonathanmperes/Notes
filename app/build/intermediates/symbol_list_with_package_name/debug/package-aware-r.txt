@@ -2458,6 +2458,7 @@ drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
 drawable fundo_gradiente_insere_nota
+drawable ic_action_salva_nota
 drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
@@ -2716,6 +2717,8 @@ id fixed
 id flip
 id floating
 id forever
+id formulario_nota_descricao
+id formulario_nota_titulo
 id fragment_container_view_tag
 id frost
 id fullscreen_header
@@ -2791,6 +2794,7 @@ id material_timepicker_ok_button
 id material_timepicker_view
 id material_value_index
 id matrix
+id menu_formulario_nota_ic_salva
 id message
 id middle
 id mini
@@ -3100,6 +3104,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_formulario_nota
 layout activity_lista_notas
 layout custom_dialog
 layout design_bottom_navigation_item
@@ -3194,6 +3199,7 @@ layout text_view_with_theme_line_height
 layout text_view_without_line_height
 menu example_menu
 menu example_menu2
+menu menu_formulario_nota_salva
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description

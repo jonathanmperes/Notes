@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:2:1-23:12
+ADDED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:2:1-26:12
 MERGED from [com.google.android.material:material:1.6.0] C:\Users\email\.gradle\caches\transforms-3\a911bf5df232e3fd12bbd44240a4fea2\transformed\material-1.6.0\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\email\.gradle\caches\transforms-3\aa44eb9e8d37a3439d636831a2be5455\transformed\constraintlayout-2.1.3\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\email\.gradle\caches\transforms-3\914116008979e77bc79da871871e9f31\transformed\appcompat-1.4.1\AndroidManifest.xml:17:1-24:12
@@ -43,25 +43,25 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\email\.gradle\ca
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\email\.gradle\caches\transforms-3\23bc2eaa3d335b525ba2ecfef837b657\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\email\.gradle\caches\transforms-3\58d3fb1b78397bc15eea1568e0b97297\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\email\.gradle\caches\transforms-3\75868ec7d8db0714374451122b3b1963\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:2:1-26:12
 	package
 		ADDED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:3:5-31
 		INJECTED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:2:1-23:12
+		ADDED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:2:1-26:12
 		INJECTED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:2:1-23:12
+		ADDED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:2:1-26:12
 		INJECTED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:5:5-21:19
+ADDED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:5:5-24:19
 MERGED from [com.google.android.material:material:1.6.0] C:\Users\email\.gradle\caches\transforms-3\a911bf5df232e3fd12bbd44240a4fea2\transformed\material-1.6.0\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.6.0] C:\Users\email\.gradle\caches\transforms-3\a911bf5df232e3fd12bbd44240a4fea2\transformed\material-1.6.0\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\email\.gradle\caches\transforms-3\aa44eb9e8d37a3439d636831a2be5455\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
@@ -90,22 +90,28 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\email\.gradle\cach
 		ADDED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:11:9-43
-activity#br.com.app.notes.ui.activity.ListaNotasActivity
-ADDED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:12:9-20:20
+activity#br.com.app.notes.ui.activity.FormularioNotaActivity
+ADDED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:12:9-14:40
 	android:exported
-		ADDED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:14:13-36
+		ADDED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:14:13-37
 	android:name
-		ADDED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:13:13-59
+		ADDED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:13:13-63
+activity#br.com.app.notes.ui.activity.ListaNotasActivity
+ADDED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:15:9-23:20
+	android:exported
+		ADDED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:17:13-36
+	android:name
+		ADDED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:16:13-59
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:15:13-19:29
+ADDED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:18:13-22:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:16:17-69
+ADDED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:19:17-69
 	android:name
-		ADDED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:16:25-66
+		ADDED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:19:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:18:17-77
+ADDED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:18:27-74
+		ADDED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml:21:27-74
 uses-sdk
 INJECTED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\email\AndroidStudioProjects\Notes\app\src\main\AndroidManifest.xml
