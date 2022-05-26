@@ -13,7 +13,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3a32d47-f818-44ea-bc89-b48f6ad0d93f" name="Default Changelist" comment="ssh config">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/br/com/app/notes/ui/recyclerview/helper/callback/NotaItemTouchHelperCallback.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/apk/debug/app-debug.apk" afterDir="false" />
@@ -22,8 +21,10 @@
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/br/com/app/notes/ui/activity/ListaNotasActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/br/com/app/notes/ui/activity/ListaNotasActivity.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/br/com/app/notes/ui/activity/ListaNotasActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/br/com/app/notes/ui/activity/ListaNotasActivity.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/br/com/app/notes/ui/activity/FormularioNotaActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/br/com/app/notes/ui/activity/FormularioNotaActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/br/com/app/notes/ui/activity/ListaNotasActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/br/com/app/notes/ui/activity/ListaNotasActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/br/com/app/notes/ui/recyclerview/adapter/ListaNotasAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/br/com/app/notes/ui/recyclerview/adapter/ListaNotasAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

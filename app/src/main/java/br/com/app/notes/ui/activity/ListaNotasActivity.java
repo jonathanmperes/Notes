@@ -11,7 +11,6 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
@@ -28,12 +27,14 @@ import br.com.app.notes.ui.recyclerview.helper.callback.NotaItemTouchHelperCallb
 
 public class ListaNotasActivity extends AppCompatActivity {
 
+    public static final String TITULO_APPBAR = "Notes";
     private ListaNotasAdapter adapter;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_lista_notas);
+        setTitle(TITULO_APPBAR);
         List<Nota> todasNotas = pegaTodasNotas();
         configuraRecyclerView(todasNotas);
         configuraBotaoInsereNota();
@@ -58,9 +59,6 @@ public class ListaNotasActivity extends AppCompatActivity {
 
     private List<Nota> pegaTodasNotas() {
         NotaDAO dao = new NotaDAO();
-        for (int i = 0; i < 10; i++) {
-            dao.insere(new Nota("Título " + (i + 1), "Descrição " + (i + 1)));
-        }
         return dao.todos();
     }
 
@@ -79,9 +77,6 @@ public class ListaNotasActivity extends AppCompatActivity {
                 Nota notaRecebida = (Nota) data.getSerializableExtra(CHAVE_NOTA);
                 if (ehPosicaoValida(posicaoRecebida)) {
                     altera(posicaoRecebida, notaRecebida);
-                } else {
-                    Toast.makeText(this, "Ocorreu um problema na alteração da nota",
-                            Toast.LENGTH_SHORT).show();
                 }
             }
         }
@@ -114,7 +109,7 @@ public class ListaNotasActivity extends AppCompatActivity {
     }
 
     private boolean temNota(@Nullable Intent data) {
-        return data.hasExtra(CHAVE_NOTA);
+        return data != null && data.hasExtra(CHAVE_NOTA);
     }
 
     private boolean resultadoOk(int resultCode) {
